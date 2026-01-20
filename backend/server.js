@@ -13,7 +13,7 @@ const app = express();
 app.use(
   cors({
     origin:
-      process.env.FRONTEND_URL || "https://uas-pet-daycare-o1q8.vercel.app/",
+      process.env.FRONTEND_URL || "https://uas-pet-daycare-rwie.vercel.app",
     credentials: true,
   }),
 );
