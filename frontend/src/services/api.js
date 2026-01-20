@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const apiUrl =
-  import.meta.env.VITE_API_URL || "https://uas-pet-daycare-rwie.vercel.app/";
+  import.meta.env.VITE_API_URL || "https://uas-pet-daycare-o1q8.vercel.app";
 
 const instance = axios.create({
   baseURL: apiUrl,
