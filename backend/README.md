@@ -1,7 +1,8 @@
 turso database url: libsql://petdaycare-muhramadoni.aws-ap-northeast-1.turso.io
 turso token: eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJhIjoicnciLCJpYXQiOjE3Njg4MjM3MjcsImlkIjoiOTQzZTcwZWEtMDdjOS00OTBjLTk5YzgtMGM0OTI2YjczZDI1IiwicmlkIjoiZmYwMWRjMDUtN2Y3MC00MzA0LWEwZmEtOWU2OGY3NzA2YjVkIn0.gampL0N8F_WCptcvYTeGlHAtWLdSiGYTThSe_ccMGNIyNu44q3YOxjgqIo1AtOHsbDajadiHUvGN17QS-cF8Cg
 
-file frontend:https://uas-pet-daycare-rwie.vercel.app/
+url backend:https://uas-pet-daycare-o1q8.vercel.app/
+url frontend:https://uas-pet-daycare-rwie.vercel.app/
 
 #==================================
 Setup Project & Running Backend
