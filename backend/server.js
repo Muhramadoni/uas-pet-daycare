@@ -18,6 +18,10 @@ app.use(
 );
 app.use(express.json());
 
+app.get("/", (req, res) => {
+  res.json({ message: "Pet Daycare API is running" });
+});
+
 app.use("/api/auth", authRoutes);
 app.use("/api/hewan", hewanRoutes);
 app.use("/api/pemilik", pemilikRoutes);
