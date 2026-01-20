@@ -13,7 +13,8 @@
     }
   ],
   "env": {
-    "DATABASE_URL": "@database_url",
+    "TURSO_URL": "@turso_url",
+    "TURSO_AUTH_TOKEN": "@turso_auth_token",
     "JWT_SECRET": "@jwt_secret",
     "PORT": "5000"
   }
