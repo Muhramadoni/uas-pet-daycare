@@ -1,38 +1,4 @@
 #==================================
-Setup Project & Running Backend
-#==================================
-
-1. Init Project:
-   cd backend
-   npm init -y
-
-2. Install Dependencies:
-   npm install express cors sequelize mysql2 jsonwebtoken dotenv bcryptjs
-   npm install nodemon --save-dev
-
-3. Running Project:
-   node server.js
-
-#==================================
-Setup Project & Running Frontend
-#==================================
-
-1. Buat Project React + Vite:
-   npm create vite@latest frontend
-   cd frontend
-   npm install
-
-2. Install Tailwindcss 3.4.17:
-   npm install -D tailwindcss@3.4.17 postcss autoprefixer
-   npx tailwindcss init -p
-
-3. Install Axios:
-   npm install axios
-
-4. Running Project:
-   npm run dev
-
-#==================================
 Testing Api
 #==================================
 
